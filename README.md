@@ -82,7 +82,7 @@ End the HTML structure.
 </html>
 ``````
 ## OUTPUT
-![Alt text](<Screenshot (58).png>)
+![Screenshot (58)](https://github.com/KAMALESHNITHYA/ODD23-24-WT-JavaScript/assets/145743119/c2295f21-86d6-4c4e-93af-3bdb082d8fba)
 
 ## RESULT:
 Thus the java code executed to calculate the electricity bill.
@@ -159,7 +159,7 @@ End the HTML structure.
 </html>
 ``````
 ## OUTPUT
-![Alt text](<Screenshot (59).png>)
+![Screenshot (59)](https://github.com/KAMALESHNITHYA/ODD23-24-WT-JavaScript/assets/145743119/f76439c8-5e9f-4df0-b644-c933d51c9ffe)
 
 ## RESULT
 Thus the java code executed to compute the factorial of a given number without recursion.
@@ -243,7 +243,7 @@ End the HTML structure.
 </html>
 ``````
 ## OUTPUT
-![Alt text](<Screenshot (60).png>)
+![Screenshot (60)](https://github.com/KAMALESHNITHYA/ODD23-24-WT-JavaScript/assets/145743119/c32383f9-3101-4d14-bcaf-1032cb4cf64c)
 
 ## RESULT
 Thus the java code executed to construct a JavaScript code to generate ‘N’ prime numbers.
@@ -341,7 +341,7 @@ End the HTML structure.
 </html>
 ``````
 ## OUTPUT:
-![Alt text](<Screenshot (61).png>)
+![Screenshot (61)](https://github.com/KAMALESHNITHYA/ODD23-24-WT-JavaScript/assets/145743119/7980b0a3-c872-4e45-bcf1-98debb6d04c3)
 
 ## RESULT:
 Thus the java code executed to implement a simple calculator.
@@ -440,7 +440,7 @@ Simple Text Editor using JavaScript
 </html>
 ``````
 ## OUTPUT:
-![Alt text](<Screenshot (62).png>)
+![Screenshot (62)](https://github.com/KAMALESHNITHYA/ODD23-24-WT-JavaScript/assets/145743119/a2d0a24a-4310-4581-8f03-3607dddbf72b)
 
 ## RESULT:
 Thus the java code executed to design a simple text editor JavaScript application where we can manipulate the user input in different styles, edit the input, capitalize, and many string operations.
@@ -555,7 +555,7 @@ End the HTML structure.
 </html>
 ``````
 ## OUTPUT:
-![Alt text](<Screenshot 2023-12-21 085347-1.png>)
+![Screenshot 2023-12-21 085347](https://github.com/KAMALESHNITHYA/ODD23-24-WT-JavaScript/assets/145743119/223367e9-dd63-4358-85db-c069dc7986d5)
 
 ## RESULT:
 Thus the java code executed to design a JavaScript program which displays error messages when a field in form is entered incorrectly.
